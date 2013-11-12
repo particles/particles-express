@@ -5,7 +5,7 @@ An express server for the Particles platform
 
 [![NPM](https://nodei.co/npm/particles-express.png)](https://nodei.co/npm/particles-express/)
 
-[![Build Status](https://travis-ci.org/particles/particles-express.png)](https://travis-ci.org/particles/particles-express)
+[![Dependency Status](https://david-dm.org/particles/particles-express.png)](https://david-dm.org/particles/particles-express)
 
 
 # License
