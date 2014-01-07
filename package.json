@@ -23,7 +23,7 @@
     "particles": "~0.1.0",
     "grunt-particles-assetmanager": "~0.1.0",
     "express": "~3.3.0",
-    "jade": "~0.35.0"
+    "jade": "~1.0.0"
   },
   "scripts": {
     "test": "node_modules/.bin/mocha test/*.js --reporter spec"
