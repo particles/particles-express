@@ -1,7 +1,7 @@
 {
   "name": "particles-express",
   "description": "An express server for the Particles platform",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "author": {
     "name": "Mario Casciaro"
   },
@@ -16,12 +16,12 @@
   "devDependencies": {
     "mocha": "~1.12.0",
     "chai": "~1.7.2",
-    "particles": "~0.1.0",
+    "particles": "~0.2.0",
     "express": "~3.3.0"
   },
   "peerDependencies": {
-    "particles": "~0.1.0",
-    "grunt-particles-assetmanager": "~0.1.0",
+    "particles": "~0.2.0",
+    "grunt-particles-assetmanager": "~0.2.0",
     "express": "~3.3.0",
     "jade": "~1.0.0"
   },
