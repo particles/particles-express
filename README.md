@@ -1,18 +1,11 @@
 
-#Synopsis
+[![NPM version](https://badge.fury.io/js/particles-express.png)](http://badge.fury.io/js/particles-express) 
+[![Dependency Status](https://gemnasium.com/particles/particles-express.png)](https://gemnasium.com/particles/particles-express)
 
-An express server for the Particles platform
+# [particles](https://github.com/particles/particles)-express
 
-[![NPM](https://nodei.co/npm/particles-express.png)](https://nodei.co/npm/particles-express/)
+> An express server for the Particles platform
 
-[![Dependency Status](https://david-dm.org/particles/particles-express.png)](https://david-dm.org/particles/particles-express)
+## License
 
-
-# License
-
-MIT
-
------
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/particles/particles-express/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+[MIT](http://en.wikipedia.org/wiki/MIT_License) @ Mario Casciaro
